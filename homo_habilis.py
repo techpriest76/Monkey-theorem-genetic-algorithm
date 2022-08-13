@@ -100,7 +100,7 @@ def traduzir(palabra):
 ########                                                   ########################################
 ###################################################################################################
 
-frase_alvo = "to be or not to be that is the question from shakespeare"
+frase_alvo = "to be or not to be that is the question"
 frase = []
 for i in frase_alvo:
 	valor = ord(i)
